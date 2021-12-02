@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="my_to_do_list">My To Do List</string>
+    <string name="to_do">TO DO</string>
+    <string name="places_to_visit">PLACES TO VISIT</string>
+    <string name="calls_to_make">CALLS TO MAKE</string>
+    <string name="sample_to_do_list_item">Sample to do list item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
